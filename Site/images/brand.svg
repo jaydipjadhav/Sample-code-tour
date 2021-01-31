@@ -1,0 +1,17 @@
+
+<!--?xml version="1.0" encoding="UTF-8" standalone="no" ?-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="250" height="150" viewBox="0 0 900 600" xml:space="preserve">
+	<g transform="translate(250.3 220.46) scale(0.9 0.9)">
+		<image id="1595588970511" xlink:href="logo.png" x="-289" y="-205.5" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" width="578" height="411"></image>
+	</g>
+	<g id="1595588970739" transform="translate(250.8 430.56)">
+		<text xml:space="preserve" font-family=" Times New Roman" font-size="55" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(109,18,18); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-143.95" y="17.28" style="font-style: normal; font-weight: bold; ">Tuljai Tours</tspan>
+		</text>
+	</g>
+	<g id="1595588970750" transform="translate(230 490)">
+		<text xml:space="preserve" font-family="Great Vibes" font-size="25" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(204,153,0); fill-rule: nonzero; opacity: 1; white-space: pre;">
+			<tspan x="-87.75" y="7.85" style="font-style: normal; font-weight: bold; ">On time, Every time</tspan>
+		</text>
+	</g>
+</svg>
